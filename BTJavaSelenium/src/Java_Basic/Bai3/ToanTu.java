@@ -1,4 +1,4 @@
-package Java_Basic;
+package Java_Basic.Bai3;
 
 public class ToanTu {
     public static int number = 100;

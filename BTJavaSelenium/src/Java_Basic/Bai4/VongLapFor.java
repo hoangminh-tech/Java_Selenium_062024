@@ -1,8 +1,7 @@
-package Java_Basic;
+package Java_Basic.Bai4;
 
 public class VongLapFor {
-    public VongLapFor() {
-    }
+
 
     public static void main(String[] args) {
         int[] a = new int[26];

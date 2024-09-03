@@ -1,4 +1,4 @@
-package Java_Basic;
+package Java_Basic.Bai1;
 
 public class ThongTin {
     static String truong = "Đại học Hồng Bàng";

@@ -1,4 +1,4 @@
-package Java_Basic;
+package Java_Basic.Bai1;
 
 public class SinhVien {
     public String Name = "Hoang Minh";
